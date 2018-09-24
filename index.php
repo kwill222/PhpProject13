@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+            echo "Heelo World 1";
+            echo "Heelo World 2";
+            echo "Heelo World 3";
         ?>
     </body>
 </html>
