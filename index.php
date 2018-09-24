@@ -11,7 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Zaiter was here";
+
+            echo "Heelo World 1";
+            echo "Heelo World 2";
+            echo "Heelo World 3";
         ?>
     </body>
 </html>
